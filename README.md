@@ -1,10 +1,4 @@
-# Seller Fuel Calculator 📊
-
-[Click here for the English version](#-english-version) | [Clique aqui para a versão em Português](#-versao-em-portugues)
-
----
-
-## 🇺🇸 English Version
+# Seller Fuel Calculator 
 
 This Python-based tool optimizes the process of auditing, analyzing routes, and calculating fuel reimbursements for sales representatives (RCA).
 
